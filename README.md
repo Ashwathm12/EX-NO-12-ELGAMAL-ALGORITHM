@@ -25,8 +25,8 @@ To Implement ELGAMAL ALGORITHM
 
 ## Program:
 ```
-NAME: Haritha Ramesh
-REG_NO: 212223100011
+NAME: Ashwath M
+REG_NO: 212223230023
 
 #include <stdio.h>
 #include <math.h>
